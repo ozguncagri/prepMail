@@ -1,0 +1,8 @@
+{
+    "name": "ozguncagri/prep-mail",
+    "description": "Prepare HTML outputs for e-mail clients with merging CSS and HTML",
+    "license": "MIT",
+    "require": {
+        "pelago/emogrifier": "^1.1"
+    }
+}
